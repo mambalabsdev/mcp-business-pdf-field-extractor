@@ -1,0 +1,14 @@
+{
+  "mcpServers": {
+    "mamba-business-pdf-field-extractor": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@mambalabsdev/mcp-business-pdf-field-extractor"
+      ],
+      "env": {
+        "APIFY_TOKEN": "your-apify-token"
+      }
+    }
+  }
+}
