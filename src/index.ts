@@ -211,7 +211,7 @@ server.registerTool(
   {
     title: "Extract fields from business PDFs",
     description:
-      "Read invoices, purchase orders, and contracts from PDF addresses and return fixed fields: numbers, dates, parties, totals, line items, and a totals check, or contract parties, dates, term, renewal, notice days, governing law, and clauses found. Scans go through OCR. Rule based with no AI, so a value with no known label stays null. Pay per event on Apify: 0.01 USD per document, 0.014 USD per scanned page.",
+      "Read invoices, purchase orders, and contracts from PDF addresses and return fixed fields: numbers, dates, parties, totals, line items, and a totals check, or contract parties, dates, term, renewal, notice days, governing law, and clauses found. Scans go through OCR. Rule based with no AI, so a value with no known label stays null. Pay per event on Apify: 0.01 USD per document, 0.015 USD per scanned page.",
     annotations: {
       title: "Extract fields from business PDFs",
       readOnlyHint: true,

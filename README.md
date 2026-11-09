@@ -98,8 +98,8 @@ Pay per event on Apify, billed to your Apify account. Prices in USD.
 | Event | Free plan | Bronze | Silver | Gold |
 |---|---|---|---|---|
 | `document-row`, one PDF with at least one field read | $0.01 | $0.0095 | $0.009 | $0.0085 |
-| `ocr-page`, one scanned page read by OCR, charged when OCR returned text | $0.014 | $0.0133 | $0.0126 | $0.0119 |
-| `apify-actor-start`, per run start | $0.003 | $0.003 | $0.003 | $0.003 |
+| `ocr-page`, one scanned page read by OCR, charged when OCR returned text | $0.015 | $0.01425 | $0.0135 | $0.01275 |
+| `apify-actor-start`, per run start | $0.004 | $0.004 | $0.004 | $0.004 |
 
 Line item rows, documents with no fields read, failed downloads, and refused input are free. Mamba Labs pays the platform costs of the run, Apify proxy traffic included.
 
