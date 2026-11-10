@@ -1,7 +1,7 @@
 {
   "manifest_version": "0.3",
   "name": "mcp-business-pdf-field-extractor",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "MCP server for Business PDF Field Extractor. Invoice, purchase order, and contract fields from PDFs, with line items and OCR for scans. No AI. Runs on Apify.",
   "author": {
     "name": "Mamba Labs"
